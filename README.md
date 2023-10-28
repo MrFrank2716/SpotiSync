@@ -15,12 +15,13 @@ Spotify Visualizer is a Python program that creates a dynamic visual display of 
 
 ## Features
 
-- Real-time visualization of currently playing songs on Spotify.
-- Automatic detection of new songs and advertisement content.
-- Display of song title, artist name, album name, and album art.
-- Display album art of last listened song.
 - Background color adaptation based on the dominant color of the album art.
 - All text changes to either Black or White dependent on the dominant color for the best contrast.
+- Real-Time Song Display: Stay in the groove by keeping track of the song, artist, and album name as it plays on your Spotify account in real-time.
+- Last Played Song: Keep track of your listening history with the ability to monitor the last played song, ensuring you never miss a beat.
+- Dynamic Album Art: Enjoy a stunning display of the current track's album art as the background, making each song come to life.
+- Color Synchronization: The application dynamically changes the background color based on the dominant color of the album art, creating a visually captivating experience.
+- Advertisement Handling: Seamlessly transition between your favorite tracks and Spotify ads, ensuring you're always informed about what's playing.
 
 ## Requirements
 
