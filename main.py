@@ -28,8 +28,8 @@ def determine_text_color(background_color):
         return (255, 255, 255)  # White text for dark backgrounds
 
 # Spotify API credentials
-SPOTIPY_CLIENT_ID = '08a90f6e29b8459e804801848ed2ef0a'
-SPOTIPY_CLIENT_SECRET = '03bc3b6f706d49bf8f7f4600450a2c56'
+SPOTIPY_CLIENT_ID = 'REPLACE_WITH_CLIENT_ID'
+SPOTIPY_CLIENT_SECRET = 'REPLACE_WITH_CLIENT_SECRET'
 SPOTIPY_REDIRECT_URI = 'http://localhost:1234'
 
 # Create the Spotipy object
